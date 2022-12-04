@@ -1,0 +1,6 @@
+[] Make the home view. Contains preview of images along with the post
+
+
+[]Nav bar consists of image upload, create user
+[] Use Postman to test API calls (images,posts, comments)
+[]
